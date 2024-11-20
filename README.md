@@ -17,7 +17,18 @@
 
 ###
 
-<p align="left">Map<String, dynamic> fahim = {<br>"StatusCode": "200",<br>"Name": "Redwan Ahmed Bhuiyan",<br>"Nickname": "Fahim", // the name I like being called the most;)<br>"Birthday": "2002 July 12th, Friday",<br>"From": "Bangladesh",<br>"University": "International Islamic University Chittagong - IIUC",<br>"hobbies": ["books", "judo", "designing", "brainstorming business ideas"],<br>"Skills": ["Dart", "Flutter", "Mobile application development", “Firebase”],<br>"quote": "Find your WHY in your life...."<br>};</p>
+```dart
+Map<String, dynamic> fahim = {
+  "StatusCode": "200",
+  "Name": "Redwan Ahmed Bhuiyan",
+  "Nickname": "Fahim", 
+  "Birthday": "2002 July 12th, Friday",
+  "University": "International Islamic University Chittagong - IIUC",
+  "hobbies": ["books", "judo", "designing", "brainstorming business ideas"],
+  "Skills": ["Dart", "Flutter", "Mobile application development", "Firebase"],
+  "quote": "Find your WHY in your life...."
+};
+```
 
 ###
 
