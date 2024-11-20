@@ -21,7 +21,7 @@
 Map<String, dynamic> fahim = {
   "StatusCode": "200",
   "Name": "Redwan Ahmed Bhuiyan",
-  "Nickname": "Fahim", 
+  "Nickname": "Fahim", // the name I like being called the most
   "Birthday": "2002 July 12th, Friday",
   "University": "International Islamic University Chittagong - IIUC",
   "hobbies": ["books", "judo", "designing", "brainstorming business ideas"],
